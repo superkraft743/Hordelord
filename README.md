@@ -204,4 +204,4 @@ This repository serves as the official landing page for Hordelord. The software 
 **Get the most recent version of Hordelord today!**
 
 ---
-**Last updated:** 2026-11-09 21:14:54 UTC
+**Last updated:** 2026-11-10 03:55:48 UTC
